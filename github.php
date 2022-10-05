@@ -2,7 +2,7 @@
     <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-            <h2>javascript</h2>
+            <h2>Github</h2>
             <p>Tugas-tugas yang sudah dikerjakan pada program Kampus Merdeka MSIB Batch III tahun 2022 pada mitra PT. Nurul Fikri Cipta Inovasi academy Fullstack WEB Developer</p>
         </div>
 
